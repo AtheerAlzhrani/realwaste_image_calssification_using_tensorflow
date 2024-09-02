@@ -16,12 +16,6 @@ The RealWaste dataset was developed as part of an honors thesis exploring the pe
 ## Project Overview
 This project demonstrates how to classify images of waste items using a tf.keras.Sequential model. It leverages tf.keras.utils.image_dataset_from_directory to load and manage the dataset.
 
-## Key concepts covered include:
-
-* Efficient Dataset Loading.
-
-* Overfitting Detection and Mitigation: Strategies to identify and address overfitting, including the use of dropout layers.
-
 ## Workflow:
 * Data Exploration
 * Data Preprocessing
