@@ -14,7 +14,7 @@ The RealWaste dataset was developed as part of an honors thesis exploring the pe
 * Textile Trash
 * Vegetation
 ## Project Overview
-This project demonstrates how to classify images of waste items using a tf.keras.Sequential model. It leverages tf.keras.utils.image_dataset_from_directory to load and manage the dataset.The focus of the project is on implementing a basic machine learning workflow
+This project demonstrates how to classify images of waste items using a tf.keras.Sequential model. It leverages tf.keras.utils.image_dataset_from_directory to load and manage the dataset.
 
 ## Workflow:
 * Data Exploration
