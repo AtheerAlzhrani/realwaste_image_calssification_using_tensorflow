@@ -1,5 +1,4 @@
 # Waste Item Classification with RealWaste Dataset
-
 The RealWaste dataset was developed as part of an honors thesis exploring the performance of convolutional neural networks (CNNs) on genuine waste materials. The dataset includes objects in their pure forms and compares the efficacy of CNNs when trained on authentic waste items.
 
 **Class Labels:**
