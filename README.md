@@ -25,6 +25,11 @@ This project demonstrates how to classify images of waste items using a tf.keras
 * Model Improvement
 
 
+### Before Handling Overfitting 
+![image](https://github.com/user-attachments/assets/35653bb9-93ed-4c15-82dd-b2cd2bec7c4e)
+
+### Aftter Handling Overfitting Using Dropout,EarlyStopping And BatchNormalization
+![image](https://github.com/user-attachments/assets/6c56e9e3-f27d-48f3-a8ac-2cd025d22137)
 
 
 
